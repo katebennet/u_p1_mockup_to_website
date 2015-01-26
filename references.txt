@@ -1,0 +1,23 @@
+REFERENCES FOR PROJECT 1
+
+Bootstrap overview: http://getbootstrap.com/css/#type.
+
+Converting em to pixels: http://pxtoem.com/
+
+Various w3schools pages, e.g. http://www.w3schools.com/cssref/pr_dim_line-height.asp.
+
+Bootstrap grid system: http://www.tutorialspoint.com/bootstrap/bootstrap_grid_system.htm.
+
+W3C HTML and CSS validators: http://validator.w3.org/.
+
+Various Stackoverflow pages, e.g. on the use of img-responsive (project validator doesn’t work when it’s in the code).
+
+Piazza question: https://piazza.com/class/i4nat74xz7tsx?cid=87.
+
+Document Object Model definitions:
+http://css-tricks.com/dom/
+http://www.w3.org/TR/DOM-Level-2-Core/introduction.html.
+
+Alternative grid layouts:
+http://alistapart.com/article/outsidethegrid
+http://designshack.net/articles/layouts/ditching-the-grid-alternate-layout-strategies-and-tips/

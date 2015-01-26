@@ -1,0 +1,38 @@
+* {
+	font-family: Verdana, sans-serif;
+	line-height: 32px;
+	font-size: 16px;
+	color: #666;
+}
+
+h1 {
+	font-size: 48px;
+	margin-top: 45px;
+}
+
+h2 {
+	color: #F07C17;
+	font-weight: bold;
+	font-size: 24px;
+	padding-bottom: 20px;
+	margin-top: 15px;
+}
+
+.image1 {
+	margin-top: 19px;
+	width: 375px;
+	height: 375px;
+}
+
+.box {
+	border: 1px solid;
+	border-color: #cccccc;
+	padding-left: 30px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+	margin-top: 30px;
+}
+
+.col-md-7 {
+	margin-top: 5px;
+}
